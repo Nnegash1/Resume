@@ -9,7 +9,7 @@
 ***Language*** - Java, Python, C++, C, R, Mathlab, JavaScript <br />
 ***Front-End Development*** - React Js <br />
 ***Frameworks*** - Flask, Spring Boot, Tensorflow, Keras <br />
-***Databases*** - Postgresql <br />
+***Database*** - Postgresql <br />
 ***Tools*** - Github, Git, IBM-Cloud, Debian, Eclipse, XCode <br />
 
 # PROJECT
