@@ -2,7 +2,7 @@
 
 **Aspiring Software Engineer**
 
-240-559-8636 | nnegash1997@gmail.com [Github](https://github.com/Nnegash1) | [LinkedIn ](https://www.linkedin.com/in/nahomnegash/)
+240-559-8636 | nnegash1997@gmail.com | [Github](https://github.com/Nnegash1) | [LinkedIn ](https://www.linkedin.com/in/nahomnegash/)
 
 ### TECHNICAL SKILLS
 ***Language*** - Java, Python, C++, C, R, Mathlab, JavaScript <br />
