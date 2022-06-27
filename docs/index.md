@@ -1,12 +1,12 @@
 ## Nahom Negash
 
-**Aspiring Software Engineener**
+**Aspiring Software Engineer**
 
 240-559-8636 | nnegash1997@gmail.com
 [Github](https://github.com/Nnegash1) | [LinkedIn](www.linkedin.com/in/nahomnegash)
 
 ### TECHNICAL SKILLS
-***Languages*** - Java, Python, C++, C, R, Mathlab, JavaScript <br />
+***Language*** - Java, Python, C++, C, R, Mathlab, JavaScript <br />
 ***Front-End Development*** - React Js <br />
 ***Frameworks*** - Flask, Spring Boot, Tensorflow, Keras <br />
 ***Databases*** - Postgresql <br />
