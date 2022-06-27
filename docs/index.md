@@ -18,7 +18,7 @@ An anonymous, online professor-rating website, which allows studenst in Universi
 
 - Designed a database system to handle the data of the instructors and all the courses thought in UMBC using PostgreSQL
 - Implemented and designed the back-end for user login credentials using Flask, python, and PostgreSQL.
-- Development processes: used Agile scrum
+- Development processes: Agile scrum
 - Implementation and design: [Gritview]([url](https://github.com/Nnegash1/GritView))
 
 ### VR Robotic Arm
