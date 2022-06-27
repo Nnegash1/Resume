@@ -31,7 +31,7 @@ Designed and implemented a simple CPU that preforms 8 bit addition, subtraction,
 - Full design and implementation: [CPU](https://github.com/Nnegash1/CPU_Implementation)
 
 ### PREDICTION MODEL
-Implemented and train regression models that predics the closing price of **Apple Stock Index AAPL** with **99% accuracy**. 
+Implemented and train regression models that predicts the closing price of **Apple Stock Index AAPL** with **99% accuracy**. 
 
 - Implementation and design: [Prediction model](https://github.com/Nnegash1/stock_prediction_model)
 
