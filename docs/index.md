@@ -6,15 +6,15 @@
 [Github](https://github.com/Nnegash1) | [LinkedIn](www.linkedin.com/in/nahomnegash)
 
 ### TECHNICAL SKILLS
-Languages - Java, Python, C++, C, R, Mathlab, JavaScript
-Front-End Development - React Js
-Frameworks - Flask, Spring Boot, Tensorflow, Keras
-Databases - Postgresql
-Tools - Github, Git, IBM-Cloud, Debian, Eclipse, XCode, 
+***Languages*** - Java, Python, C++, C, R, Mathlab, JavaScript <br />
+***Front-End Development*** - React Js <br />
+***Frameworks*** - Flask, Spring Boot, Tensorflow, Keras <br />
+***Databases*** - Postgresql <br />
+***Tools*** - Github, Git, IBM-Cloud, Debian, Eclipse, XCode <br />
 
 ``` markdown 
-### 
-# GRIT-VIEW
+# PROJECT
+### GRIT-VIEW
 An anonymous, online professor-rating website, which allows studenst in University of Maryland Baltimore County to share classroom experiences to help fellow students make critical education choices. 
 
 - Designed a database system to handle the data of the instructors and all the courses thought in UMBC using PostgreSQL
@@ -34,6 +34,7 @@ Designed and implemented a simple CPU that preforms 8 bit addition, subtraction,
 
 ### PREDICTION MODEL
 Implemented and train regression models that predics the closing price of **Apple Stock Index AAPL** with **99% accuracy**. 
+
 - Implementation and design: [Prediction model](https://github.com/Nnegash1/stock_prediction_model)
 
 ### Image Classification with Convolutional Neural Networks
