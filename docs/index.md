@@ -19,7 +19,7 @@ An anonymous, online professor-rating website, which allows studenst in Universi
 - Designed a database system to handle the data of the instructors and all the courses thought in UMBC using PostgreSQL
 - Implemented and designed the back-end for user login credentials using Flask, python, and PostgreSQL.
 - Development processes: Agile scrum
-- Implementation and design: [Gritview]([url](https://github.com/Nnegash1/GritView))
+- Implementation and design: [Gritview](https://github.com/Nnegash1/GritView)
 
 ### VR Robotic Arm
 This project presents a simulation methodology applied to a robotic arm. Its goal is to allow the arm perform easy movement in a 2d environment. The robotic arm is designed in Vrealm, a 3d rendering application, and the movement of the arm is implemented by using Matlab. The work includes mathematical modeling of the arms movement by using inverse kinematics.
