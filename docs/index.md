@@ -43,8 +43,8 @@ Perform image classification using Convolutional Neural Networks in Tensorflow a
 - Implementation: [Image Classifier](https://github.com/Nnegash1/Image-Classification-with-CNN/blob/main/Image_classification_CNN.ipynb)
 
 ```
-### EDUCATION
-## University of Maryland, Baltimore Conty
+# EDUCATION
+## University of Maryland, Baltimore County
 ### Bachelor of Science in Computer Science                                  Aug 2019 - Dec 2021
   - Coursework : Artificial intelligence, Machine Learning, Brain Machine Interface, Assembly, Computer Architecture, Computer Network, Data Science, Advance Algorithms, Operating System, Programming Languages, Software Engineering, Statistics, Computer Security
   
