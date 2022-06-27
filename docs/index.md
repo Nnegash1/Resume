@@ -12,7 +12,6 @@
 ***Databases*** - Postgresql <br />
 ***Tools*** - Github, Git, IBM-Cloud, Debian, Eclipse, XCode <br />
 
-``` markdown 
 # PROJECT
 ### GRIT-VIEW
 An anonymous, online professor-rating website, which allows studenst in University of Maryland Baltimore County to share classroom experiences to help fellow students make critical education choices. 
@@ -42,7 +41,6 @@ Perform image classification using Convolutional Neural Networks in Tensorflow a
 
 - Implementation: [Image Classifier](https://github.com/Nnegash1/Image-Classification-with-CNN/blob/main/Image_classification_CNN.ipynb)
 
-```
 # EDUCATION
 ## University of Maryland, Baltimore County
 ### Bachelor of Science in Computer Science                                  Aug 2019 - Dec 2021
